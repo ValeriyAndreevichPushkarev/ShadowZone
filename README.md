@@ -48,7 +48,7 @@ Simply invert previous result
 
 
 
-### And the last example (4): ###
+### Example of AND (4): ###
 
 A B   Result
 
@@ -59,7 +59,6 @@ A B   Result
 10 01  0
 
 1**0** 1**0**  **1** - inversion
-
 
 ### As you can see here we get **OR** (2) and **AND** (4) operations so we can compute anything :).
 In most complicated cases we can simply add an invertor.
@@ -76,6 +75,9 @@ Thats **works only with positional (one-hot) encoding** (where **you always have
 And, 50 mw laser can provide enought light to compute almost anything (optics, km's of optics). 
 
 No coherence, no headache with all other.
+
+**Use less logical elements that your bitness. Always keep in mind activity factor.**
+
 
 ## TODO: ##
 
