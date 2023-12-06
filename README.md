@@ -67,9 +67,9 @@ A B   Result
 
 01 01  0
 
-**0**1 1**0**  1 - inversion
+**0**1 1**0**  **1** - inversion
 
-1**0** **0**1  1 - inversion
+1**0** **0**1  **1** - inversion
 
 10 10  0 
 
