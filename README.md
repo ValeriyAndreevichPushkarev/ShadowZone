@@ -78,6 +78,23 @@ No coherence, no headache with all other.
 
 **Use less logical elements than your bitness. Always keep in mind activity factor.**
 
+## Most intresting moment ##
+Wait, we can always change 2 codes between each other (or always "inverse" the second operand without any logical element, just change wiring :) )
+
+But to use this trick we must rebuild our tables for positional encoding.
+
+(in progress)
+Lets build
+AND(p)
+A Ainv B BInv   Result(1) Result(0)
+
+01 10 01 10  0  1 - merge of last bits
+
+01 10 10 01  0  1
+
+10 01 01 10  0  1 
+
+10 01 10 01  **1** - inversion  0 - merge of last bits
 
 ## TODO: ##
 
