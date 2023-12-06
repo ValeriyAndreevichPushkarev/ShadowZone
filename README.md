@@ -76,3 +76,6 @@ Thats **works only with positional (one-hot) encoding** (where **you always have
 And, 50 mw laser can provide enought light to compute almost anything (optics, km's of optics). 
 
 No coherence, no headache with all other.
+
+TODO:
+Add results in one-hot encoding
