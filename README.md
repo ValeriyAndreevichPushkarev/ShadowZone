@@ -36,7 +36,7 @@ Its easy to invert the results - with the help of quasi-stationary light\electro
 
 That simple tric allows to build supereffective computations based on light or electromagnetic waves (much more effective than anything).
 
-Thats works only with positional encoding (where you always have a zeros in a digit notation).
+Thats **works only with positional (one-hot) encoding** (where **you always have a zeros in a digit notation**).
 
 And, 50 mw laser can provide enought light to compute almost anything (optics, km's of optics). 
 
