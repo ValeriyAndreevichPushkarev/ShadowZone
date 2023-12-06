@@ -34,7 +34,7 @@ Inverted result = "Shadow" from first part of A (01) and "shadow" from first par
 
 Its easy to invert the results - with the help of quasi-stationary light\electromagnetic elements.
 
-That simple tric allows to build supereffective computations based on light or electromagnetic waves (much more effective than anything).
+That simple tric allows to build supereffective computations based on light **or electromagnetic waves** (much more effective than anything).
 
 Thats **works only with positional (one-hot) encoding** (where **you always have a zeros in a digit notation**).
 
