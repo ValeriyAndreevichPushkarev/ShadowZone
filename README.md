@@ -3,7 +3,7 @@ Shadow Zones Computations
 
 The main idea is to use positional encoding to preform a calculations without any active elements(except NOT element).
 
-For example here is function with 2 digits(1):
+### For example here is function with 2 digits(1): ###
 
 A B   Result
 
@@ -18,7 +18,7 @@ A B   Result
 Result = First Digit of B
 
 
-Lets take another example (2):
+### Lets take another example (2): ###
 
 A B   Result
 
@@ -33,7 +33,7 @@ A B   Result
 Result = "Shadow" from first part of A (01) and "shadow" from first part of B (01).
 
 
-Lets suppose another example (3):
+### Lets suppose another example (3): ###
 A B   Result
 
 **0**1 **0**1  **1**
@@ -48,7 +48,7 @@ Simply invert previous result
 
 
 
-And the last example (4):
+### And the last example (4): ###
 
 A B   Result
 
@@ -77,5 +77,6 @@ And, 50 mw laser can provide enought light to compute almost anything (optics, k
 
 No coherence, no headache with all other.
 
-TODO:
+## TODO: ##
+
 Add results in one-hot encoding
