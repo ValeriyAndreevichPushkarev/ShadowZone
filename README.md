@@ -66,7 +66,7 @@ In most complicated cases we can simply add an invertor.
 Simply invert result from two zero's in a digit notation.
 
 
-Its easy to invert the results - with the help of quasi-stationary light\electromagnetic elements.
+Its easy to invert the results.
 
 That simple trick allows to build supereffective computations based on light **or electromagnetic waves** (much more effective than anything).
 
