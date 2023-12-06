@@ -61,20 +61,6 @@ A B   Result
 1**0** 1**0**  **1** - inversion
 
 
-### And the last example (5): ###
-
-A B   Result
-
-01 01  0
-
-**0**1 1**0**  **1** - inversion
-
-1**0** **0**1  **1** - inversion
-
-10 10  0 
-
-
-
 ### As you can see here we get **OR** (2) and **AND** (4) operations so we can compute anything :).
 In most complicated cases we can simply add an invertor.
 
