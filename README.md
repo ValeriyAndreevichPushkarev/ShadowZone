@@ -3,7 +3,7 @@ Shadow Zones Computations
 
 The main idea is to use positional encoding to preform a calculations without any active elements.
 
-For example here is function with 2 digits:
+For example here is function with 2 digits(1):
 
 A B   Result
 
@@ -17,7 +17,8 @@ A B   Result
 
 Result = First Digit of B
 
-Lets take another example
+
+Lets take another example (2):
 
 A B   Result
 
@@ -29,8 +30,42 @@ A B   Result
 
 10 10  1
 
+Result = "Shadow" from first part of A (01) and "shadow" from first part of B (01).
 
-Inverted result = "Shadow" from first part of A (01) and "shadow" from first part of B (01).
+
+Lets suppose another example (3):
+A B   Result
+
+**0**1 **0**1  **1**
+
+01 10  0
+
+10 01  0
+
+10 10  0
+
+Simply invert previous result
+
+
+
+And the last example (4):
+
+A B   Result
+
+01 01  0
+
+01 10  0
+
+10 01  0
+
+1**0** 1**0**  **1**
+
+
+### As you can see here we get **OR** (2) and **AND** (4) operations so we can compute anything :).
+In most complicated cases we can simply add an invertor.
+
+Simply invert result from two zero's in a digit notation.
+
 
 Its easy to invert the results - with the help of quasi-stationary light\electromagnetic elements.
 
