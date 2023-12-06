@@ -15,11 +15,7 @@ A B   Result
 
 10 10  1
 
-Let's declare the 1 is the "Shadow zone".
-Now lets write all results in NOT OR notation.
-
 Result = First Digit of B
-Inverted result = Second digit of B
 
 Lets take another example
 
