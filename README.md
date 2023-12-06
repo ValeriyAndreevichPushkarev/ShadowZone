@@ -84,8 +84,11 @@ Wait, we can always change 2 codes between each other (or always "inverse" the s
 But to use this trick we must rebuild our tables for positional encoding.
 
 (in progress)
+
 Lets build
+
 AND(p)
+
 A Ainv B BInv   Result(1) Result(0)
 
 01 10 01 10  0  1 - merge of last bits
