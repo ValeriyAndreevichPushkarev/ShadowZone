@@ -36,7 +36,7 @@ Result = "Shadow" from first part of A (01) and "shadow" from first part of B (0
 ### Lets suppose another example (3): ###
 A B   Result
 
-**0**1 **0**1  **1**
+**0**1 **0**1  **1** - inversion
 
 01 10  0
 
@@ -58,7 +58,21 @@ A B   Result
 
 10 01  0
 
-1**0** 1**0**  **1**
+1**0** 1**0**  **1** - inversion
+
+
+### And the last example (5): ###
+
+A B   Result
+
+**0**1 **0**1  **0**
+
+01 10  1
+
+10 01  1
+
+**1**0 **1**0  **0** - inversion
+
 
 
 ### As you can see here we get **OR** (2) and **AND** (4) operations so we can compute anything :).
