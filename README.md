@@ -76,7 +76,7 @@ And, 50 mw laser can provide enought light to compute almost anything (optics, k
 
 No coherence, no headache with all other.
 
-**Use less logical elements that your bitness. Always keep in mind activity factor.**
+**Use less logical elements than your bitness. Always keep in mind activity factor.**
 
 
 ## TODO: ##
