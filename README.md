@@ -178,12 +178,12 @@ The represented truth table is:
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/edc6e0fa-3332-4c2a-946f-84b5c8933b11)
 
 
-Another exaple - when you can simply detect group of the result (usually the same digit):
+Another example - when you can simply detect group of the result (usually the same digit):
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/623a068d-f521-40d9-8b55-a097d5a9bb3f)
 
 
 
-That can be used in work with matricies or so (with the base of 4b and branching factors that close to 1000). 
+That can be used in **work with matricies** or so (with the base of 4b and branching factors that close to 1000). (Just **encode digit once, and preform thousands of calculations**).
 Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
 Also with EM waves is much easy to simply reflect or percolate em waves (compared with the light).
 
