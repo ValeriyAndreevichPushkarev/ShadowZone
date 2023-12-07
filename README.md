@@ -178,7 +178,9 @@ The represented truth table is:
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/9267c841-7a8f-45a0-a9c0-aef5b3147129)
 
 
-That can be used in work with matricies or so (with the base of 4b and branching factors that close to 1000). Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
+That can be used in work with matricies or so (with the base of 4b and branching factors that close to 1000). 
+Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
+Also with EM waves is much easy to simply reflect or percolate em waves (compared with the light).
 
 ## TODO: ##
 
