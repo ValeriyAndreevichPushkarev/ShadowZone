@@ -187,6 +187,8 @@ That can be used in work with matricies or so (with the base of 4b and branching
 Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
 Also with EM waves is much easy to simply reflect or percolate em waves (compared with the light).
 
+Or even use the transistors to "filter EM waves" and detect\inverse them :)
+
 ## TODO: ##
 
 Add results in one-hot encoding
