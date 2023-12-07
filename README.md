@@ -179,7 +179,8 @@ The represented truth table is:
 
 
 Another exaple - when you can simply detect group of the result (usually the same digit):
-![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/32405ceb-6bec-4c25-8da9-4cd58261b13d)
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/623a068d-f521-40d9-8b55-a097d5a9bb3f)
+
 
 
 That can be used in work with matricies or so (with the base of 4b and branching factors that close to 1000). 
