@@ -177,6 +177,9 @@ The represented truth table is:
 
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/9267c841-7a8f-45a0-a9c0-aef5b3147129)
 
+Another exaple - when you can simply detect group of the result (usually the same digit):
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/32405ceb-6bec-4c25-8da9-4cd58261b13d)
+
 
 That can be used in work with matricies or so (with the base of 4b and branching factors that close to 1000). 
 Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
