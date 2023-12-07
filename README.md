@@ -164,27 +164,14 @@ A B   Result (NAND-L)
 
 10 10  01
 
-OR
+As you can see, we cant simply stay inside Only Low bits or Only High bits encodings.
 
-A B   Result
 
-00 00  00
+## The Result ##
+So most useful scenario for that computation technique:
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/8b50679b-3953-48f5-a4ea-6b6e47e65969)
 
-00 10  10
-
-10 00  10
-
-10 10  10
-
-Simply merge 
-
-ORU-ANDL
-AND 
-OR
-
-ANDL-ANDL
-AND
-OR
+That can be used in work with matricies or so. Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
 
 ## TODO: ##
 
