@@ -175,7 +175,8 @@ So most useful scenario for that computation technique:
 
 The represented truth table is:
 
-![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/9267c841-7a8f-45a0-a9c0-aef5b3147129)
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/edc6e0fa-3332-4c2a-946f-84b5c8933b11)
+
 
 Another exaple - when you can simply detect group of the result (usually the same digit):
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/32405ceb-6bec-4c25-8da9-4cd58261b13d)
