@@ -84,7 +84,7 @@ No coherence, no headache with all other.
 Wait, we can always change 2 codes between each other (or always "inverse" the second operand without any logical element, just change wiring :) )
 Or simply declare two more encodings
 
-OR Upper 
+OR Upper (ORU)
 
 A B   Result
 
@@ -97,7 +97,7 @@ A B   Result
 10 10  10
 
 
-AND Lower
+AND Lower (ANDL)
 
 A B   Result
 
@@ -109,13 +109,64 @@ A B   Result
 
 1**0** 1**0**  0**0**
 
+NAND Lower (NAND-L from ORU)
+
+A B   Result 
+
+00 00  00
+
+00 10  01
+
+10 00  01
+
+10 10  01
+
+OR from ANDL (NOR-L from ANDL)
+
+A B   Result  
+
+01 01  01
+
+01 00  01
+
+00 01  01
+
+00 00  00
+
+
+
 And check how to implement AND and OR operations based in that encodings.
 
 (in progress)
 
 ORU - ORU
+
+
 AND
+
+A B   Result (NAND-L)
+
+00 00  00
+
+00 10  01
+
+10 00  01
+
+10 10  01
+
 OR
+
+A B   Result
+
+00 00  00
+
+00 10  10
+
+10 00  10
+
+10 10  10
+
+Simply merge 
 
 ORU-ANDL
 AND 
