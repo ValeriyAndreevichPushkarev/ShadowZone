@@ -70,6 +70,8 @@ Its easy to invert the results.
 
 That simple trick allows to build supereffective computations based on light **or electromagnetic waves** (much more effective than anything).
 
+And you can also change light flow (and simply add mirrors on the ends of optical fiber parts that dont conduct light further).
+
 Thats **works only with positional (one-hot) encoding** (where **you always have a zeros in a digit notation**).
 
 And, 50 mw laser can provide enought light to compute almost anything (optics, km's of optics). 
@@ -80,24 +82,48 @@ No coherence, no headache with all other.
 
 ## Most intresting moment ##
 Wait, we can always change 2 codes between each other (or always "inverse" the second operand without any logical element, just change wiring :) )
+Or simply declare two more encodings
 
-But to use this trick we must rebuild our tables for positional encoding.
+OR Upper 
+
+A B   Result
+
+**0**1 **0**1  **0**0
+
+01 10  10
+
+10 01  10
+
+10 10  10
+
+
+AND Lower
+
+A B   Result
+
+01 01  01
+
+01 10  01
+
+10 01  01
+
+1**0** 1**0**  0**0**
+
+And check how to implement AND and OR operations based in that encodings.
 
 (in progress)
 
-Lets build
+ORU - ORU
+AND
+OR
 
-AND(p)
+ORU-ANDL
+AND 
+OR
 
-A Ainv B BInv   Result(1) Result(0)
-
-01 10 01 10  0  1 - merge of last bits
-
-01 10 10 01  0  1
-
-10 01 01 10  0  1 
-
-10 01 10 01  **1** - inversion  0 - merge of last bits
+ANDL-ANDL
+AND
+OR
 
 ## TODO: ##
 
