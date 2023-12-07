@@ -168,10 +168,17 @@ As you can see, we cant simply stay inside Only Low bits or Only High bits encod
 
 
 ## The Result ##
+
 So most useful scenario for that computation technique:
+
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/8b50679b-3953-48f5-a4ea-6b6e47e65969)
 
-That can be used in work with matricies or so. Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
+The represented truth table is:
+
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/9267c841-7a8f-45a0-a9c0-aef5b3147129)
+
+
+That can be used in work with matricies or so (with the base of 4b and branching factors that close to 1000). Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
 
 ## TODO: ##
 
