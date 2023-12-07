@@ -133,7 +133,17 @@ A B   Result
 
 00 00  00
 
+OR from NOR-L (NOR-L from ANDL)
 
+A B   Result  
+
+01 01  01
+
+01 00  01
+
+00 01  01
+
+00 00  00
 
 And check how to implement AND and OR operations based in that encodings.
 
