@@ -187,6 +187,13 @@ That can be used in **work with matricies** or so (with the base of 4b and branc
 Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
 Also with EM waves is much easy to simply reflect or percolate em waves (compared with the light).
 
+Note that its about **3 dB/km signal loss for fiber optics** (or we get only 0.70 of the power of the signal from 1 km line).
+
+
+And **all "Computations" preforms only within a optics**, and only one remaining problem is the branching factor.
+
+And there is a possibility to create efficient invertors (even from LED's and photoionization :)
+
 Or even use the transistors to "filter EM waves" and detect\inverse them :)
 
 ## TODO: ##
