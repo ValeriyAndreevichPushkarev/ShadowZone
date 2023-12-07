@@ -189,7 +189,7 @@ Also with EM waves is much easy to simply reflect or percolate em waves (compare
 
 Note that its about **3 dB/km signal loss for fiber optics** (or we get only 0.70 of the power of the signal from 1 km line).
 
-15 mW laser (not a diode - diodes much more effective) - 	8,4 lm, or 8,4 lx per m**2, or more that (TODO: make computations of power consumption with respect to modern photodiodes/detectors)
+15 mW laser (not a diode - diodes much more effective) - 	8,4 lm, or 8,4 lx per m**2, or more than (TODO: make computations of power consumption with respect to modern photodiodes/detectors)
 
 And **all "Computations" preforms only within a optics**, and only one remaining problem is the branching factor.
 
