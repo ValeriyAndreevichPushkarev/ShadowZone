@@ -205,6 +205,9 @@ If we encode our bits with optical flow 1 and 1/3 we will get:
 
 The correct insolation level for the group 1 is 1 and 0,333.
 
+Another example:
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/cbecf45f-2076-46dc-bf2b-4c61247a5042)
+
 With that approach we can make absolutely effective computations (on Thz) without anu active elements.
 
 Computations without active evements with uncoherent light or em waves.
