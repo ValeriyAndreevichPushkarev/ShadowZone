@@ -215,9 +215,6 @@ Another example:
 
 With that approach we can make absolutely effective computations (on Thz) without any active elements.
 
-Photodetector can be based on "pinin" diodes.
-When we get more photons - photoionisations occurs more often, so we can transfer more electrons to the next "n" zone with external electromangetic field.
-
 Computations without active evements with uncoherent light or em waves.
 
 Or even use the transistors to "filter EM waves" and detect\inverse them :)
