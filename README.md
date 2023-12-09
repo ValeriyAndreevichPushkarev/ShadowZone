@@ -196,14 +196,19 @@ And **all "Computations" preforms only within a optics**, and only one remaining
 And there is a possibility to create efficient invertors (even from LED's and photoionization :)
 
 ## Passive computations with a light or em waves ##
+Basically you can simple add radian fluxes.
+
+And encode bits with a different radian fluxes (1, 1/(n+1), etc).
+
+So you will get different 
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
 
 Principle is simple - we just chage insolations of our "bits".
-If we encode our bits with optical flow 1 and 1/3 we will get:
+If we encode our bits with radian fluxes 1 and 1/3 we will get:
 
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/abe100de-41b9-4cd8-b437-3f8c15fa0fa1)
 
-The correct insolation level for the group 1 is 1 and 0,333.
+The correct radian fluxes for the group 1 is 1 and 0,333.
 
 Another example:
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/cbecf45f-2076-46dc-bf2b-4c61247a5042)
