@@ -183,7 +183,7 @@ Another example - when you can simply detect group of the result (usually the sa
 
 
 
-That can be used in **work with matricies** or so (with the base of 4b and branching factors that close to 1000). (Just **encode digit once, and preform thousands of calculations**).
+That can be used in **work with matricies** or so (with the base of 4b and branching factors that close to 1000, or even 1M). (Just **encode digit once, and preform thousands of calculations**).
 Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
 Also with EM waves is much easy to simply reflect or percolate em waves (compared with the light).
 
