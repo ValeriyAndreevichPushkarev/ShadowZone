@@ -187,6 +187,10 @@ That can be used in **work with matricies** or so (with the base of 4b and branc
 Also we can use em waves that much easier to detect or filter (quazistationary levels of electrons and allowed energy levels).
 Also with EM waves is much easy to simply reflect or percolate em waves (compared with the light).
 
+**Modern photodiones have response time about 35 pS (or work on 10 Ghz)**. (https://www.thorlabs.com/thorproduct.cfm?partnumber=FDS015)
+
+With **branching factor of thousands or even millions**, and **near-zero losses in fiberoptics** its absolutely overkill.
+
 Note that its about **3 dB/km signal loss for fiber optics** (or we get only 0.70 of the power of the signal from 1 km line).
 
 15 mW laser (not a diode - diodes much more effective) - 	8,4 lm, or 8,4 lx per m**2, or more than (TODO: make computations of power consumption with respect to modern photodiodes/detectors)
