@@ -215,6 +215,8 @@ Another example:
 
 With that approach we can make absolutely effective computations (on Thz) without any active elements.
 
+Note that its possible to use another basis (not 1b functions, 4b fucntions or even 8b functions can be computed using that technique).
+
 Computations without active evements with uncoherent light or em waves.
 
 Or even use the transistors to "filter EM waves" and detect\inverse them :)
