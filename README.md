@@ -195,6 +195,21 @@ And **all "Computations" preforms only within a optics**, and only one remaining
 
 And there is a possibility to create efficient invertors (even from LED's and photoionization :)
 
+## Passive computations with a light or em waves ##
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
+
+Principle is simple - we just chage insolations of our "bits".
+If we encode our bits with optical flow 1 and 1/3 we will get:
+
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/abe100de-41b9-4cd8-b437-3f8c15fa0fa1)
+
+The correct insolation level for the group 1 is 1 and 0,333.
+
+With that approach we can make absolutely effective computations (on Thz) without anu active elements.
+
+Computations without active evements with uncoherent light or em waves.
+
+
 Or even use the transistors to "filter EM waves" and detect\inverse them :)
 
 ## TODO: ##
