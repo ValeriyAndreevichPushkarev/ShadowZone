@@ -217,7 +217,6 @@ With that approach we can make absolutely effective computations (on Thz) withou
 
 Computations without active evements with uncoherent light or em waves.
 
-
 Or even use the transistors to "filter EM waves" and detect\inverse them :)
 
 ## TODO: ##
