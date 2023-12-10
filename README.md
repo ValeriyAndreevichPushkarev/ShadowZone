@@ -204,7 +204,7 @@ Basically you can simple add radian fluxes.
 
 And encode bits with a different radian fluxes (1, 1/(n+1), etc).
 
-So you will get different 
+So you will get different sums of fluxes :).
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
 
 Principle is simple - we just chage insolations of our "bits".
