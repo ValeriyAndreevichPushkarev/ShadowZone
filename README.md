@@ -1,7 +1,7 @@
 # Shadow Zones
 Shadow Zones Computations
 
-The main idea is to use positional encoding to preform a calculations without any active elements(except NOT element).
+The main idea is to use positional encoding to preform a calculations without any active elements **with incoherent light or EM wave source**.
 
 ### For example here is function with 2 digits(1): ###
 
