@@ -199,7 +199,7 @@ And **all "Computations" preforms only within a optics**, and only one remaining
 
 And there is a possibility to create efficient invertors (even from LED's and photoionization :)
 
-## Passive computations with a light or em waves ##
+## Computations only with a Passive elements and a light or em waves ##
 Basically you can simple add radian fluxes.
 
 And encode bits with a different radian fluxes (1, 1/(n+1), etc).
