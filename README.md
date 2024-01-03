@@ -196,9 +196,9 @@ With **branching factor of thousands or even millions**, and **near-zero losses 
 
 Note that its about **3 dB/km signal loss for fiber optics** (or we get only 0.70 of the power of the signal from 1 km line).
 
-15 mW laser (not a diode - diodes much more effective) - 	8,4 lm, or 8,4 lx per m**2, or more than (TODO: make computations of power consumption with respect to modern photodiodes/detectors)
+Lets make a computations for 15 mW laser (not a diode - diodes much more effective).
 
-**For diode from above with responsibility 0.36 A/W, and branching factor of 10000 (!) we have 12 mW/10000 * 0.36 = 400 nA that is 1000 more than the dark current (0.5 nA). Notice that this is not a top-notch diode**
+**For diode from above with responsibility 0.36 A/W, and branching factor of 100000 for 15 mW laser (!) we have 12 mW/100000 * 0.36 = 40 nA that is 100 more than the dark current (0.5 nA). Notice that this is not a top-notch diode**
 
 Of cause, we always can change diodes to another, more efficient ones.
 
