@@ -7,6 +7,11 @@ With adding radiant fluxes (or absence of them).
 
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/8b50679b-3953-48f5-a4ea-6b6e47e65969)
 
+Or, made all computations absolutely passive:
+
+![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
+
+
 ### For example here is function with 2 digits(1): ###
 
 A B   Result
@@ -212,7 +217,7 @@ Basically you can simply add radian fluxes.
 And encode bits with different radian fluxes (1, 1/(2*n+1) - for functions with 2 arguments, etc).
 
 From the example from above - we can specify up to 16 different levels of light (1, 1/3, 1/5, ...) and compute up to 100000 functions of 4b digits on 1Ghz (or much more). 
-Or more than 100 TOps (int4) for 15 mW light source. (Note that with quasi-stationary levels you can simply ignore power consumption of a photodetectors, for example )
+Or **more than 100 TOps (int4) for 15 mW light source**. (Note that with quasi-stationary levels you can simply ignore power consumption of a photodetectors, for example )
 
 So you will get different sums of fluxes :).
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
