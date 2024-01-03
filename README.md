@@ -198,6 +198,10 @@ Note that its about **3 dB/km signal loss for fiber optics** (or we get only 0.7
 
 15 mW laser (not a diode - diodes much more effective) - 	8,4 lm, or 8,4 lx per m**2, or more than (TODO: make computations of power consumption with respect to modern photodiodes/detectors)
 
+**For diode from above with responsibility 0.36 A/W, and branching factor of 10000 (!) we have 12 mW/1000 * 0.36 = 400 nA that is 1000 more than the dark current (0.5 nA). Notice that this is not a top-notch diode**
+
+Of cause, we always can change diodes to another, more efficient ones.
+
 And **all "Computations" preforms only within a optics**, and only one remaining problem is the branching factor.
 
 And there is a possibility to create efficient invertors (even from LED's and photoionization :)
@@ -205,7 +209,7 @@ And there is a possibility to create efficient invertors (even from LED's and ph
 ## Computations only with a Passive elements and a light or em waves ##
 Basically you can simple add radian fluxes.
 
-And encode bits with a different radian fluxes (1, 1/(n+1), etc).
+And encode bits with a different radian fluxes (1, 1/(2*n+1) - for functions with 2 arguments, etc).
 
 So you will get different sums of fluxes :).
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
