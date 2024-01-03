@@ -211,6 +211,9 @@ Basically you can simple add radian fluxes.
 
 And encode bits with a different radian fluxes (1, 1/(2*n+1) - for functions with 2 arguments, etc).
 
+From the example from above - we can specify up to 16 different levels of light (1, 1/3, 1/5, ...) and preform compute up to 100000 functions of 4b digits on 1Ghz (or much more). 
+Or more than 100 MOps (int4) for 15 mW light source.
+
 So you will get different sums of fluxes :).
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
 
