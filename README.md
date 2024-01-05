@@ -13,6 +13,7 @@ Or, made all computations absolutely passive:
 
 Moreover, you can **simply change light density instead of turning on and off LEDs** that encode fluxes. And achieve 10-100 Ghz with acceptable power dissipation.
 
+# Full text
 ### For example here is function with 2 digits(1): ###
 
 A B   Result
