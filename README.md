@@ -11,6 +11,7 @@ Or, made all computations absolutely passive:
 
 ![image](https://github.com/ValeriyAndreevichPushkarev/ShadowZone/assets/130975795/b2d2fbc7-c39d-44bd-a8b6-ee853cab0a6e)
 
+Moreover, you can **simply change light density instead of turning on and off LEDs** that encode fluxes. And achieve 10-100 Ghz with acceptable power dissipation.
 
 ### For example here is function with 2 digits(1): ###
 
