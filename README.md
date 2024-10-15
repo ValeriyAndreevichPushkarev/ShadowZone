@@ -244,4 +244,8 @@ Or even use the transistors to "filter EM waves" and detect\inverse them :)
 
 ## TODO: ##
 
-Add results in one-hot encoding
+Add results in one-hot encoding.
+
+Compare with charge-based logic on modern lithography 
+(I can use sums of E (electrostatic potentials) to implement any function with only 3 n-stripes xD ).
+
