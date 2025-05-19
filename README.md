@@ -249,3 +249,7 @@ Add results in one-hot encoding.
 Compare with charge-based logic on modern lithography 
 (I can use sums of E (electrostatic potentials) to implement any function with only 3 n-stripes xD ).
 
+A small nuance - its almost free computations. It means when you spen 15 mW on LED, you can preform as many computations as you want :)
+So, N^3 and so on :)
+
+The only place where you spend power - to represend all input data and to get the results.
